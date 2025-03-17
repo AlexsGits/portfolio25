@@ -1,6 +1,6 @@
-### **🚀 Social Media Dashboard**  
+### **🚀 Personal Portfolio**  
 
-A **centralized platform** where users can connect all their social media accounts, **seamlessly upload content**, and **track real-time engagement**—all in one place!  
+A **centralized platform** where users can choose their next **candidate** to **hire**! 
 
 ---
 
